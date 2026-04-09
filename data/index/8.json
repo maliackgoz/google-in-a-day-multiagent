@@ -1,0 +1,6351 @@
+{
+"80": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 7,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Backlink": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Breadth-first_search": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Intelligent_agent": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Talk:AI-assisted_software_development": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_server": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Website": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Websites": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"800": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robots.txt": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Robots_exclusion_standard": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Wikipedia:Community_portal": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8000": {
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Query_string": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"80000": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"80000007152557373047": {
+"https://en.wikipedia.org/wiki/Infinite_loop": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"80001": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80012": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80025": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8008288": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"801": {
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8010": {
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8012": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Intelligent_agent": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"802": {
+"https://en.wikipedia.org/wiki/Bandwidth_(computing)": {
+"depth": 1,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8020": {
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8021": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80218": {
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8022": {
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80245": {
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8026": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"802838": {
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80290": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8031": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8034385": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80362850": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=info": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8040": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8044090": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80457": {
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"80461": {
+"https://en.wikipedia.org/wiki/Software": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"805": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8050": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8051": {
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8053": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8058": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8058017": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"806": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8060": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8066548": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"806939": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80719": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8072192": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8075": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8076": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8076s": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8078": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8080": {
+"https://en.wikipedia.org/wiki/Robots.txt": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Robots_exclusion_standard": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8081": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8082372": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8083": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80849": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8089": {
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8090": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=3": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=4": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"809284": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8093": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8096926": {
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8099": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80legs": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1347779833": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Search_bot": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_crawler": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_spider": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"80m": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"80s": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"81": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 8,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Breadth-first_search": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Collaborative_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Index_(search_engine)": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Language_poetry": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Search_engine_indexing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8100": {
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8103": {
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"81098": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"811": {
+"https://en.wikipedia.org/wiki/Thumbnail": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8111": {
+"https://en.wikipedia.org/wiki/Collaborative_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8114": {
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"811491744": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8116": {
+"https://en.wikipedia.org/wiki/Intrinsic_and_extrinsic_properties_(philosophy)": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"812": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8120048": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8125": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Intelligent_agent": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"812565": {
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"813": {
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8132982": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"81346": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8136": {
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"813x": {
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"814976": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"815": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Website": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Websites": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8153": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8158": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8160": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8164": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"816600a": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"817": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8174": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8174496": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8176": {
+"https://en.wikipedia.org/wiki/Recursion": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8178": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"81846": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8186": {
+"https://en.wikipedia.org/wiki/Marc_Najork": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"819": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8190": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8194": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"81c2324b": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"81g4001d": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"81st": {
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"82": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Intelligent_agent": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChanges": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Web_crawler": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Wikipedia:Contact_us": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"820": {
+"https://en.wikipedia.org/wiki/File:Dall-e_3_(jan_%2724)_artificial_intelligence_icon.png": {
+"depth": 1,
+"freq": 12,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8200": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"820s": {
+"https://en.wikipedia.org/wiki/Main_Page": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8217": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8218": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8218233": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8219": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"822": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8220": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8224": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8225": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8229456": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"823": {
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8231": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8236": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"823876": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"823g": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"823j": {
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"824": {
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"824073": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"825": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8250": {
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"825057": {
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"825079": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"825080": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8252": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8257": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8268912371": {
+"https://en.wikipedia.org/wiki/Intelligent_agent": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"827": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Website": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Websites": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8273530": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8276": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8278129": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"827w": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"828": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8282": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8286": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"829": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8290": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8293": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"82e4": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"82h": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"83": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Marc_Najork": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/AI-assisted_software_development": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Spiderbot_(video_game)": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_server": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8302": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8305701": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8308172": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8309": {
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"830s": {
+"https://en.wikipedia.org/wiki/Main_Page": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"831": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8311": {
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"833": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8330": {
+"https://en.wikipedia.org/wiki/Software": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"83343": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"833565": {
+"https://en.wikipedia.org/wiki/Web_scraping": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8336": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"83364": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"83378": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8349367": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"835": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/AI-assisted_software_development": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8355116": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8356": {
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8356056": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"836": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Main_Page": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"836650": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"83672322": {
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"837": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8371605": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8373": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8375649": {
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"838": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8382232": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8387410": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"839": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"83910": {
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"83e2": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 8,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Lexical_analysis": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Metasearch_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"840": {
+"https://en.wikipedia.org/wiki/Portal:Current_events": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"841": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"841696": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8418480": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"842": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"842195": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8424": {
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"842b": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"843": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84337": {
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"84354": {
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8436": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8439": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"844": {
+"https://en.wikipedia.org/wiki/Marc_Najork": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8441": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8447": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84471": {
+"https://en.wikipedia.org/wiki/Language_poetry": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"845": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8457": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"846": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8460": {
+"https://en.wikipedia.org/wiki/Software": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84628": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"847": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"847021": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8477474": {
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8478193": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"848": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"84800": {
+"https://en.wikipedia.org/wiki/Breadth-first_search": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8482": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84831583": {
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"84852": {
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"84858": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"84882": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8488604": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"849": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Spider_trap&action=info": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_data_center": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 14,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 6,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Recursion": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Recursive_self-improvement": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robots.txt": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Robots_exclusion_standard": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/AI-assisted_software_development": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Website": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Websites": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"850": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"850017": {
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"850050": {
+"https://en.wikipedia.org/wiki/Recursion": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8501": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8505": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8505h": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8506": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_industry": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8510": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"851375253": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85142": {
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8523": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85233": {
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85296": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"853": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"853280": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85352": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"853864": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"854": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8542": {
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"854204b": {
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8547482": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"855": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8556641": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"856": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Automated_planning_and_scheduling": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"85604": {
+"https://en.wikipedia.org/wiki/Web_archiving": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8565": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85664": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"857": {
+"https://en.wikipedia.org/w/index.php?title=Spider_trap&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8571": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"857166": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=3": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1347779833": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Search_bot": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_crawler": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_spider": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"857170": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=3": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1347779833": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Search_bot": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_crawler": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_spider": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"858": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8581": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8581750": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8583": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8588": {
+"https://en.wikipedia.org/wiki/Web_archiving": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"85969": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8598": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"85s": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 14,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Lexical_analysis": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/PageRank": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Parsing": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Recursion": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Wikipedia:Community_portal": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"860": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8601": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8602006k": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8609": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8613": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8614": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8615": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8617": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8617877": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8618": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8624": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86279": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8628": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"863": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8630": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8630761": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8632": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8634775": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"863l": {
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"864": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=3": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=4": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1347779833": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Search_bot": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Web_crawler": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_spider": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8640": {
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8641": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86488": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"864m": {
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"865": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8651": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8652": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8653718": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86571": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"865q": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"866": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8662": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8665": {
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8670": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8673632": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86743553": {
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"86833": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"869": {
+"https://en.wikipedia.org/wiki/Natural_language_processing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8691": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8695": {
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"87": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 18,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Hyperlink": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChanges": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/AI-assisted_software_development": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Web_archiving": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_server": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"870": {
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8700": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8704": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8713": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"871473": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"872": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=3": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=edit&section=4": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&oldid=1347779833": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Search_bot": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_crawler": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_spider": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8724": {
+"https://en.wikipedia.org/wiki/Software": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"872734": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"873": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Hyperlink": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8733": {
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"873382847": {
+"https://en.wikipedia.org/wiki/Backlink": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"873983": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"873h": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"874": {
+"https://en.wikipedia.org/wiki/Spider_web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8740": {
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8740705": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"87444": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8746462": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8748529": {
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8749": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"875": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"87586": {
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8760": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8764": {
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"87683": {
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8770": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"878": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8780": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"879": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Wikipedia:Citation_needed": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8794": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"88": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 6,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 18,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Collaborative_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 6,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 5,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Hyperlink": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/AI-assisted_software_development": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Artificial_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uncanny_valley": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Vertical_search": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"880": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8805": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"88058": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8806": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8807": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"881": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8812542": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"882": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8820": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/HTTP": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"883": {
+"https://en.wikipedia.org/w/index.php?title=AI-assisted_software_development&action=history": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"883307": {
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8837": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"88385": {
+"https://en.wikipedia.org/wiki/Mathematical_combination": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"883b": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"884": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"88438": {
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"884666": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"885": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8851": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"885373": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8856": {
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Bitter_lesson": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8859": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"885b": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"886074": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"886075": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8869270": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"887": {
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8871": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"887334": {
+"https://en.wikipedia.org/wiki/Web_archiving": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8875543": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8879": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"889": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8890": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Web_crawler&action=history": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/AI_alignment": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/AI_safety": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_art": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 3,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Chinese_room": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Data-driven_programming": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Internet_search": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_earth_sciences": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 4,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Music_and_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Software": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Web_server": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/World_Wide_Web": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"890": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8901661": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8903": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_mental_health": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8907065": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"891": {
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"891190": {
+"https://en.wikipedia.org/wiki/Language_poetry": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8914": {
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89141": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"891c": {
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"892": {
+"https://en.wikipedia.org/wiki/AI_(disambiguation)": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Open-source_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8920": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89264": {
+"https://en.wikipedia.org/wiki/Bayesian_network": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"893": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8931455": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"893488404": {
+"https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89377": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89378": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"894": {
+"https://en.wikipedia.org/wiki/Web_scraping": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8943": {
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8947": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8949": {
+"https://en.wikipedia.org/wiki/Artificial_general_intelligence": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 6,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"895": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"895109": {
+"https://en.wikipedia.org/wiki/Friendly_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"895114": {
+"https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8955": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"895659909": {
+"https://en.wikipedia.org/wiki/History_of_artificial_intelligence": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"896": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8963": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"896514": {
+"https://en.wikipedia.org/wiki/Human%E2%80%93AI_interaction": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8965385": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89683": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/Breadth-first_search": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"897": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Robotics": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Top-level_domain": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"89701": {
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89791": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Evolutionary_algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Marc_Najork": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"898": {
+"https://en.wikipedia.org/wiki/HTML": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8984": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8987793": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"899": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8997449": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"899x": {
+"https://en.wikipedia.org/wiki/Computer_vision": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89d2314w": {
+"https://en.wikipedia.org/wiki/Machine_learning_in_physics": {
+"depth": 2,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"89ff": {
+"https://en.wikipedia.org/wiki/Algorithm": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"89m": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 2,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8a": {
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8b00540": {
+"https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8c": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_arms_race": {
+"depth": 2,
+"freq": 19,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8cd550d1": {
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&action=edit": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&oldid=1347260223": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/w/index.php?title=Artificial_intelligence&printable=yes": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Artificial_intelligence": {
+"depth": 0,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8d": {
+"https://en.wikipedia.org/wiki/Uniform_Resource_Locator": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+}
+},
+"8gb": {
+"https://en.wikipedia.org/wiki/Generative_artificial_intelligence": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8l9889d": {
+"https://en.wikipedia.org/wiki/Deep_learning": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8s": {
+"https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8th": {
+"https://en.wikipedia.org/wiki/Artificial_consciousness": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Collaborative_search_engine": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Web_crawler"
+},
+"https://en.wikipedia.org/wiki/General_game_playing": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Machine_translation": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+},
+"https://en.wikipedia.org/wiki/Turing_test": {
+"depth": 2,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+},
+"8ujkbqtz0o": {
+"https://en.wikipedia.org/wiki/Deepfake": {
+"depth": 1,
+"freq": 1,
+"origin_url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+}
+}
+}

@@ -1,0 +1,25 @@
+{
+"config": {
+"max_depth": 2,
+"origin_urls": [
+"https://en.wikipedia.org/wiki/Web_crawler"
+],
+"page_limit": 100,
+"queue_size": 64,
+"same_host_only": true,
+"timeout_sec": 15.0,
+"workers": 2
+},
+"job_id": "996b2a9a-d4b1-4a11-b268-afd82157ef54",
+"metrics": {
+"fetch_errors": 0,
+"pages_processed": 101,
+"skipped_duplicate": 95,
+"skipped_empty_body": 0,
+"skipped_host": 0,
+"skipped_non_html": 0,
+"urls_discovered": 221
+},
+"queue_snapshot": null,
+"status": "finished"
+}

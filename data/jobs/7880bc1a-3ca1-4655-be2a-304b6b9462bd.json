@@ -1,0 +1,25 @@
+{
+"config": {
+"max_depth": 2,
+"origin_urls": [
+"https://en.wikipedia.org/wiki/Artificial_intelligence"
+],
+"page_limit": 100,
+"queue_size": 64,
+"same_host_only": true,
+"timeout_sec": 15.0,
+"workers": 2
+},
+"job_id": "7880bc1a-3ca1-4655-be2a-304b6b9462bd",
+"metrics": {
+"fetch_errors": 0,
+"pages_processed": 94,
+"skipped_duplicate": 114,
+"skipped_empty_body": 0,
+"skipped_host": 0,
+"skipped_non_html": 0,
+"urls_discovered": 208
+},
+"queue_snapshot": null,
+"status": "finished"
+}

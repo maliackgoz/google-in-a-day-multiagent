@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
-*.pyo
+.Python
 .venv/
-crawl_state.db
-.DS_Store
-data/
+venv/
+.env
