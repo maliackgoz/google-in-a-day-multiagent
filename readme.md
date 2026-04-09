@@ -1,86 +1,45 @@
 ## Google in a Day — Multi-Agent Edition
 
-This repository is set up for a **multi-agent development workflow**: specialized agents implement the crawler, storage, search, and UI **from scratch** against [`product_prd.md`](product_prd.md). The **deliverable docs** ([`multi_agent_workflow.md`](multi_agent_workflow.md), [`agents/`](agents/)) are ready; **runtime behavior** is intentionally incomplete until those agents land code.
+This repository holds **documentation and agent orchestration** for a course-style project: a single-node **Python 3.10+** web crawler with live search. **There is no application implementation here yet**—no `run.py`, packages, or tests—only the specs, workflow, and Cursor-oriented rules you use to build the code later.
 
-### Current scaffold (what works today)
+---
 
-- `python3 run.py` starts a **minimal** HTTP server on port 3600.
-- You can submit a crawl form: a **stub** job is created (`status: stub` in logs) — no real fetching or indexing yet.
-- **Search** returns empty results until [`search/searcher.py`](search/searcher.py) is implemented.
-- [`utils.py`](utils.py) raises `NotImplementedError` until agents implement URL normalization, tokenization, and HTML text extraction.
+### What is in this repo
 
-### Target behavior (per PRD)
+| Item | Purpose |
+|------|--------|
+| [`product_prd.md`](product_prd.md) | Product requirements: behavior, concurrency, persistence, deliverables. |
+| [`AGENTS.md`](AGENTS.md) | **Index for AI assistants:** who owns which area, routing to `agents/*.md`, global rules, planned file map. |
+| [`agents/`](agents/) | One markdown file per specialist role: role, inputs/outputs, constraints, copy-paste **prompt stubs**. |
+| [`multi_agent_workflow.md`](multi_agent_workflow.md) | How those roles collaborate (order, trade-offs, quality gates). |
+| [`recommendation.md`](recommendation.md) | Short note on how a production system might evolve (out of MVP scope). |
+| [`.cursor/rules/core-architecture.mdc`](.cursor/rules/core-architecture.mdc) | **Cursor rule** (`alwaysApply`): stdlib-only stack, threading, back-pressure, search-while-indexing, pointers to `AGENTS.md`. |
 
-When implementation is complete, the site should provide:
+Functional detail (crawler, search UI, APIs, data files) lives in **`product_prd.md`**, not duplicated here.
 
-- **Crawler** — real jobs (origin URL, depth \(k\), workers, bounded queue / back-pressure, optional rate limit).
-- **Crawler Status** — live metrics, logs, pause / resume / stop, **Resume from disk** when a queue snapshot exists.
-- **Search** — live queries over the on-disk word index with triples \((url, origin\_url, depth)\) and relevance ordering.
+---
 
-**Search while indexing:** no global “indexing complete” gate; shared `WordStore` with per-letter locks (see [`product_prd.md`](product_prd.md) §4.1).
+### Multi-agent architecture (development, not runtime)
 
-### Crawler and back-pressure (target)
+The **running program** is intended to be an ordinary multi-threaded Python process. **“Multi-agent” means how you develop it**—several narrow **roles** (architect, crawler, storage, search, web/API, QA), each with its own prompt and scope in [`agents/`](agents/), coordinated as described in [`multi_agent_workflow.md`](multi_agent_workflow.md).
 
-Worker threads share a **bounded URL queue**; full queues block producers. See [`product_prd.md`](product_prd.md) §FR-4.
+- **[`AGENTS.md`](AGENTS.md)** is the single routing table: which role to adopt for which paths, plus setup/verification commands *once you create those scripts*.
+- **`agents/*.md`** holds the deep definitions and **system/user prompt stubs** for Cursor (or other) sessions.
+- **`multi_agent_workflow.md`** explains typical handoff order and design trade-offs.
 
-### Requirements
+---
 
-- **Python**: 3.10+ (CPython).
-- **OS**: macOS or Linux.
-- **Dependencies**: Python standard library only for core crawl, parse, storage, and server.
+### Cursor: rules + `AGENTS.md`
 
-### Quick start
+In **Cursor**, two layers work together:
 
-From this directory:
+1. **[`.cursor/rules/core-architecture.mdc`](.cursor/rules/core-architecture.mdc)** — Always-on project constraints: no Scrapy/BeautifulSoup/Selenium for core crawl/parse; stdlib HTTP server for MVP; explicit locks and bounded queues; search safe while indexing; follow **`AGENTS.md`** for persona routing.
+2. **[`AGENTS.md`](AGENTS.md)** — Session-level map: read the matching **`agents/<role>.md`** for the files you are editing so prompts and constraints stay aligned with the multi-agent split.
 
-```bash
-python3 run.py
-```
+Open **`AGENTS.md`** first in a new chat; open a specific **`agents/*.md`** when you focus on one subsystem.
 
-Open [http://localhost:3600](http://localhost:3600).
+---
 
-### Project layout
+### After you add code (reference only)
 
-| Path | Role |
-|------|------|
-| `crawler/indexer.py` | **Implement:** `CrawlerJob`, workers, `UrlQueue` (bounded), fetch/parse. **Now:** stub `CrawlerManager` + `CrawlTask`. |
-| `storage/file_store.py` | **Implement:** durable visited set, per-letter word index, locks. **Now:** minimal in-memory / no-op stubs. |
-| `search/searcher.py` | **Implement:** prefix fallback, relevance, pagination. **Now:** empty `search()` results. |
-| `web/server.py` | **Implement:** full dashboard. **Now:** minimal pages + same route names for APIs. |
-| `utils.py` | **Implement:** stdlib URL + HTML helpers. **Now:** `NotImplementedError` stubs. |
-| `run.py` | Entry point |
-| `verify_system.py` | Scaffold checks; extend with crawl/search integration tests as features land |
-| `product_prd.md` | PRD for implementers / AI agents |
-| `multi_agent_workflow.md` | Agent collaboration narrative |
-| `recommendation.md` | Production deployment notes |
-| `agents/` | Per-agent role descriptions and prompt stubs |
-
-### Data directory (`data/`)
-
-Created at startup. Gitignored for a fresh clone.
-
-- `visited_urls.data` — normalized visited URLs (one per line).
-- `storage/*.data` — inverted lists bucketed by first character of each term.
-- `[crawlerId].data` — per-job JSON state and logs.
-- `[crawlerId].queue` — NDJSON frontier snapshot written on **stop** for resume.
-
-### Verification
-
-```bash
-python3 verify_system.py
-```
-
-Validates documentation, `agents/*.md`, module imports, public API symbols, and stub wiring (`create_job`, empty search). **Expand this script** with depth-limited crawl tests, back-pressure, and search-on-index once the implementation exists.
-
-### New GitHub repository
-
-This folder is intended to be self-contained:
-
-```bash
-cd google-in-a-day-multiagent
-git init
-git add .
-git commit -m "Initial commit: Multi-Agent edition crawler and search"
-```
-
-Then create a remote on GitHub and push.
+When you implement the project, the PRD and agent files expect a conventional layout (e.g. `crawler/`, `storage/`, `search/`, `web/`, `utils.py`, `run.py`, `verify_system.py`). Names and responsibilities are summarized in [`AGENTS.md`](AGENTS.md) and detailed in [`product_prd.md`](product_prd.md). Until those files exist, treat the layout as a **target**, not something present in the repo today.

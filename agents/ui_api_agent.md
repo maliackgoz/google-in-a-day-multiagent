@@ -2,12 +2,12 @@
 
 ## Role
 
-Expose the system over HTTP: crawler form, job status pages with live metrics, search UI, and JSON endpoints for automation. Wire `CrawlerManager` and `Searcher` from the handler; keep HTML accessible without a front-end build step.
+Expose the system over HTTP: crawler form, job status pages with live metrics, search UI, and JSON endpoints for automation. Wire the crawler control surface and `Searcher` from handlers; keep HTML accessible without a front-end build step.
 
 ## Inputs
 
 - [`product_prd.md`](../product_prd.md) §5.3.
-- [`crawler/indexer.py`](../crawler/indexer.py) control and metrics surface.
+- [`crawler/indexer.py`](../crawler/indexer.py) control and metrics surface (as implemented).
 - [`search/searcher.py`](../search/searcher.py) result shape.
 
 ## Outputs
@@ -27,4 +27,4 @@ You build a minimal web UI using Python’s standard library HTTP server. Pages 
 
 ## Prompt stub (user)
 
-Add or adjust an endpoint (e.g. `/api/crawler-dashboard`) that returns aggregate queue depth and back-pressure flags for all active jobs. Update the Crawler home page to poll or long-poll this endpoint without breaking existing `/api/status/<id>` clients.
+Implement [`web/server.py`](../web/server.py) per [`product_prd.md`](../product_prd.md) §5.3: HTML pages and `/api/...` routes wired to the crawler manager and `Searcher`. Add `/api/crawler-dashboard` (or equivalent) returning aggregate queue depth and back-pressure flags for active jobs; keep per-job routes such as `/api/status/<id>` consistent with the UI. Document route names in code or readme so clients stay stable.

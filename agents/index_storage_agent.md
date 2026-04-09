@@ -7,7 +7,7 @@ Implement durable, thread-safe persistence: global visited URL set, per-letter i
 ## Inputs
 
 - [`product_prd.md`](../product_prd.md) §5.1 (index updates), §5.2 (live search), §7–§8.
-- Call patterns from [`crawler/indexer.py`](../crawler/indexer.py) and [`search/searcher.py`](../search/searcher.py).
+- Expected usage from crawler and search modules (`crawler/indexer.py`, `search/searcher.py`) per PRD—define minimal public APIs and document them for other agents.
 
 ## Outputs
 
@@ -22,8 +22,8 @@ Implement durable, thread-safe persistence: global visited URL set, per-letter i
 
 ## Prompt stub (system)
 
-You maintain file-backed storage for a crawler and search engine in Python. All access to shared mutable on-disk structures from multiple threads must be synchronized. Prefer small, well-named methods (`add_if_new`, `add_words`, `search`, `search_with_prefix_fallback`). Use only the standard library.
+You design and implement file-backed storage for a crawler and search engine in Python. All access to shared mutable on-disk structures from multiple threads must be synchronized. Prefer small, well-named methods (`add_if_new`, `add_words`, `search`, `search_with_prefix_fallback`). Use only the standard library. Document a **global lock ordering rule** if more than one lock can be held at once.
 
 ## Prompt stub (user)
 
-Audit [`storage/file_store.py`](../storage/file_store.py) for deadlock risk between `WordStore` letter locks and `VisitedUrlsStore`. Propose the minimal fix if two locks are ever taken in inconsistent order. Add a one-paragraph comment in code or docstring explaining the lock ordering rule.
+Create [`storage/file_store.py`](../storage/file_store.py) per [`product_prd.md`](../product_prd.md): `VisitedUrlsStore`, `WordStore` (per-letter JSON buckets + per-bucket locks for concurrent crawl writes and search reads), and `CrawlerDataStore` for per-job state. Ensure crawler and search agents can call your API without corrupting files. Add a short docstring or comment stating lock acquisition order if multiple stores interact.

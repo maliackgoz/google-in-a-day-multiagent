@@ -6,7 +6,7 @@
 
 **Important distinction**: The **runtime system** is a conventional single-process Python application with threads. **Multi-agent** refers to the **development workflow** (separate agent roles, prompts, and handoffs documented in [`multi_agent_workflow.md`](multi_agent_workflow.md) and [`agents/`](agents/)). Agents MUST still produce code that satisfies the functional and non-functional requirements below.
 
-**Repository state**: The codebase may start as a **scaffold** (importable modules, stub `CrawlerManager` / `Searcher`, minimal UI). Agents implement real crawl, storage, and search until `verify_system.py` and manual tests match the PRD.
+**Repository state**: The codebase is **greenfield**—agents create modules, `run.py`, and `verify_system.py` from the PRD and [`agents/`](agents/) until automated and manual tests match this document.
 
 **Product Name**: Google in a Day (Multi-Agent Edition)  
 **Version**: 1.0 (MVP)  
@@ -57,7 +57,7 @@ Cross-cutting: threading primitives for all shared state; file-based persistence
 
 ### 4.1 Search while the indexer is active (design)
 
-**MVP (implemented)**:
+**MVP (target implementation)**:
 
 - Crawler workers and HTTP search handlers share a `WordStore` backed by per-letter JSON files.
 - Each letter bucket is protected by a lock so concurrent **writes** (from multiple workers) and **reads** (search) do not corrupt files.

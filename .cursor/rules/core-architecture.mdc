@@ -9,7 +9,7 @@ You are an expert backend engineer on a **multi-agent** codebase. For **who owns
 
 # Multi-agent workflow
 
-- Use **[`AGENTS.md`](../AGENTS.md)** for routing, setup commands (`python3 run.py`, `python3 verify_system.py`), and the file → persona map.
+- Use **[`AGENTS.md`](../AGENTS.md)** for routing and the file → persona map. Entry points such as `run.py` and `verify_system.py` are **created as part of implementation**—see PRD deliverables and the QA agent spec.
 - When changing a module, align with **Role**, **Constraints**, and **Outputs** in the corresponding **`agents/*.md`** (e.g. `agents/crawler_agent.md` for `crawler/indexer.py`).
 - **`utils.py`** is shared: keep URL/tokenize/HTML behavior consistent between indexer and searcher.
 
@@ -24,5 +24,5 @@ You are an expert backend engineer on a **multi-agent** codebase. For **who owns
 
 - **Iterative development**: Small, testable increments; do not build the whole system in one shot.
 - **Explain concurrency choices**: Briefly justify locking, queues, and back-pressure so design is gradable and maintainable.
-- **Tests**: Prefer **loopback / in-process** HTTP in `verify_system.py`; avoid depending on the public internet by default.
+- **Tests**: Prefer **loopback / in-process** HTTP in `verify_system.py` once it exists; avoid depending on the public internet by default.
 - **Code quality**: Readable, cohesive modules; clarity over micro-optimization.

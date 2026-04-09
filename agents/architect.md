@@ -7,7 +7,7 @@ Own the system design for a single-node crawler + live search engine: concurrenc
 ## Inputs
 
 - Course or homework brief and [`product_prd.md`](../product_prd.md).
-- Existing codebase tree (if iterating).
+- Current repository tree as implementation appears (greenfield at first; iterate as modules land).
 
 ## Outputs
 

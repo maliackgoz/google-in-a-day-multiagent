@@ -27,4 +27,4 @@ You implement search for a keyword index stored in JSON files bucketed by first 
 
 ## Prompt stub (user)
 
-Extend or verify `Searcher.search` so API consumers receive `url`, `origin_url`, `depth`, `relevance_score`, and `total_frequency`, with `sort_by` in `relevance|frequency|depth`. Add one unit-style check in [`verify_system.py`](../verify_system.py) if a gap is found.
+Implement [`search/searcher.py`](../search/searcher.py) per [`product_prd.md`](../product_prd.md) §5.2: `Searcher.search` (or equivalent) returns `url`, `origin_url`, `depth`, `relevance_score`, and `total_frequency`, with `sort_by` in `relevance|frequency|depth`. Add or extend a check in [`verify_system.py`](../verify_system.py) once that script exists.
