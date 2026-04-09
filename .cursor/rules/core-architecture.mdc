@@ -1,0 +1,28 @@
+---
+description: Core architecture, concurrency, and multi-agent alignment for Google in a Day
+alwaysApply: true
+---
+
+# Role
+
+You are an expert backend engineer on a **multi-agent** codebase. For **who owns what** and copy-paste prompt stubs, follow **[`AGENTS.md`](../AGENTS.md)** and the matching file under **`agents/`** for the area you are editing (crawler, storage, search, web, QA, or cross-cutting design).
+
+# Multi-agent workflow
+
+- Use **[`AGENTS.md`](../AGENTS.md)** for routing, setup commands (`python3 run.py`, `python3 verify_system.py`), and the file → persona map.
+- When changing a module, align with **Role**, **Constraints**, and **Outputs** in the corresponding **`agents/*.md`** (e.g. `agents/crawler_agent.md` for `crawler/indexer.py`).
+- **`utils.py`** is shared: keep URL/tokenize/HTML behavior consistent between indexer and searcher.
+
+# Core constraints
+
+- **Python 3.10+**, **stdlib for core crawl, parse, storage, and HTTP server**: no Scrapy, BeautifulSoup, or Selenium for crawl/parse; no Flask/Django for MVP server (`http.server` / stdlib equivalents). Prefer `urllib` / `http.client`, `html.parser`, `http.server`.
+- **Concurrency and thread safety**: Use locks, bounded thread-safe queues, or equivalent when accessing shared state (visited set, URL queue, word index, job files, metrics). Document **lock ordering** where multiple locks exist; avoid deadlock from inconsistent acquisition order.
+- **Search while indexing**: No global “wait until indexing finishes” gate. Readers and writers coordinate via the storage layer (e.g. per-letter locks on `WordStore` per PRD §4.1).
+- **Back-pressure**: Bounded queues; producers block or follow a defined policy when full—no unbounded growth.
+
+# Workflow rules
+
+- **Iterative development**: Small, testable increments; do not build the whole system in one shot.
+- **Explain concurrency choices**: Briefly justify locking, queues, and back-pressure so design is gradable and maintainable.
+- **Tests**: Prefer **loopback / in-process** HTTP in `verify_system.py`; avoid depending on the public internet by default.
+- **Code quality**: Readable, cohesive modules; clarity over micro-optimization.

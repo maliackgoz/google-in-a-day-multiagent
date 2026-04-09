@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+crawl_state.db
+.DS_Store
+data/
