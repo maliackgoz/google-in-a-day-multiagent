@@ -17,7 +17,7 @@ Authoritative product detail: [`product_prd.md`](product_prd.md). Collaboration 
 | Run app | `python3 run.py` — use the port you define (e.g. **3600**). |
 | Verify | `python3 verify_system.py` (from repo root) |
 
-Create a **`data/`** directory at runtime; keep it gitignored for a fresh clone.
+The app creates a **`data/`** directory at runtime for the index and crawl state. In **this** repository, **`data/` may be committed** so evaluators can inspect crawler output; see [`readme.md`](readme.md). Fresh worktrees still get an empty or populated `data/` as shipped.
 
 ## Global rules for any agent
 

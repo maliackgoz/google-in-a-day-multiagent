@@ -1,23 +1,35 @@
-## Google in a Day — Multi-Agent Edition
+# Google in a Day — Multi-Agent Edition
 
-Single-process **Python 3.10+** web crawler with a **live file-backed inverted index** and a small **HTTP dashboard**. Core stack uses only the **standard library** (HTTP client/server, `html.parser`, threading, `queue`).
+## What this is
 
-Multi-agent **development** roles and prompts live under [`AGENTS.md`](AGENTS.md) and [`agents/`](agents/).
+This repository is a small **web crawler** plus **live search** over a file-backed inverted index, implemented as a single **Python 3.10+** process with threads. The HTTP UI and JSON API let you start crawls, watch queue depth and back-pressure, and **search while indexing**—new pages show up in search as they are written.
+
+The **runtime** is a normal application (not “multiple AI agents” talking to each other at run time). **Multi-agent** here means **how the project was built**: separate developer roles, prompts, and handoffs documented in [`AGENTS.md`](AGENTS.md) and [`agents/`](agents/), plus [`multi_agent_workflow.md`](multi_agent_workflow.md).
+
+### How this repo relates to “Google in a Day”
+
+An earlier **“google-in-a-day”** version was implemented in **another repository**, largely through **vibe coding** (iterative, conversational development). **This repository is different:** it targets the same kind of product, but the work is organized around **multi-agent development**—clear ownership per area (crawler, storage, search, web, QA), shared constraints in the PRD, and prompts that keep implementations aligned.
+
+### Data on disk (`data/`)
+
+Crawl state and index files live under **`data/`** (visited URLs, per-letter index JSON, job metadata, optional queue snapshots). **`data/` is kept in version control on purpose** so evaluators can inspect **real crawler results** without having to run long crawls themselves. In a typical production setup you would gitignore this folder and generate data only on the machine that runs the crawler.
 
 ---
 
-### Quick start
+## Quick start
 
 ```bash
 python3 run.py
 ```
 
-Defaults: listen on **http://127.0.0.1:3600**, store data under `./data`. Override with environment variables:
+By default the server listens at **http://127.0.0.1:3600** and uses **`./data`** for persistence. You can override:
 
-- `PORT` — HTTP port (default `3600`)
-- `DATA_DIR` — persistence root (default `data`)
+| Variable   | Meaning        | Default   |
+|-----------|----------------|-----------|
+| `PORT`    | HTTP port      | `3600`    |
+| `DATA_DIR`| Data directory | `data`    |
 
-Verification (loopback tests, no public internet):
+Run the automated checks (loopback / in-process; **no dependency on the public internet**):
 
 ```bash
 python3 verify_system.py
@@ -25,33 +37,39 @@ python3 verify_system.py
 
 ---
 
-### Layout
+## Project layout
 
 | Path | Role |
 |------|------|
-| `utils.py` | URL normalization, HTML text/links, shared `tokenize` |
+| `utils.py` | URL normalization, HTML text and links, shared `tokenize` |
 | `storage/file_store.py` | `VisitedUrlsStore`, `WordStore` (per-letter JSON + locks), `CrawlerDataStore` |
-| `crawler/indexer.py` | Bounded frontier queue, workers, pause/resume/stop, optional NDJSON queue snapshot |
-| `search/searcher.py` | Query resolution and deterministic ranking over `WordStore` |
-| `web/server.py` | `http.server` UI + `/api/*` JSON |
-| `run.py` | App entrypoint |
-| `verify_system.py` | QA checks and local integration scenarios |
-| `data/` | Created at runtime (gitignored): `visited_urls.json`, `index/*.json`, `jobs/*.json`, optional `*_queue.ndjson` |
+| `crawler/indexer.py` | Bounded frontier queue, worker pool, pause / resume / stop, optional NDJSON queue snapshot |
+| `search/searcher.py` | Query handling and deterministic ranking over `WordStore` |
+| `web/server.py` | `http.server` UI and `/api/*` JSON |
+| `run.py` | Application entrypoint |
+| `verify_system.py` | Integration and regression checks |
+| `data/` | Runtime crawl and index data (tracked here for evaluation) |
 
 ---
 
-### HTTP routes (stable)
+## HTTP API and pages (overview)
 
 | Route | Purpose |
 |--------|---------|
-| `GET /` | HTML dashboard and forms |
+| `GET /` | Home |
+| `GET /crawl` | Crawler UI (start jobs, dashboard, saved crawls, live log) |
 | `POST /crawl` | Form POST to start a crawl |
+| `GET /search` | Search UI |
 | `GET /api/crawler-dashboard` | Aggregate queue depth, capacity, back-pressure, active job IDs |
-| `GET /api/status/<job_id>` | Per-job metrics and queue snapshot path |
+| `GET /api/status/<job_id>` | Per-job status, metrics, queue info |
+| `GET /api/saved-jobs` | List saved job summaries on disk |
+| `GET /api/crawler-events?since=&limit=&job=&filter=` | Crawl event log for the live panel |
 | `GET /api/search?q=...&limit=&offset=&sort=` | JSON search (`sort`: `relevance`, `frequency`, `depth`) |
-| `POST /api/crawl` | JSON body: `origin_urls`, `max_depth`, `workers`, `queue_size`, `page_limit`, `same_host_only`, `resume`, optional `job_id` |
+| `POST /api/crawl` | JSON: `origin_urls`, `max_depth`, `workers`, `queue_size`, `page_limit`, `same_host_only`, `resume`, optional `job_id` |
 | `POST /api/pause/<job_id>` | Pause workers |
 | `POST /api/resume/<job_id>` | Resume |
-| `POST /api/stop/<job_id>` | Stop; writes NDJSON queue snapshot when pending work remains |
+| `POST /api/stop/<job_id>` | Stop; may write NDJSON queue snapshot for resume |
+| `POST /api/resume-saved` | Resume a stopped job from disk (`job_id` in JSON body) |
+| `POST /api/clear-data` | Clear index, jobs, visited set (destructive) |
 
-Requirements and concurrency rules are defined in [`product_prd.md`](product_prd.md). Workflow between roles is in [`multi_agent_workflow.md`](multi_agent_workflow.md).
+**Requirements and concurrency** are specified in [`product_prd.md`](product_prd.md). **Multi-agent workflow and design decisions** are in [`multi_agent_workflow.md`](multi_agent_workflow.md). **Production-style next steps** are sketched in [`recommendation.md`](recommendation.md).
